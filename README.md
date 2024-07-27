@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning ** ReactJS**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/SoumalyaM?tab=repositories]https://github.com/SoumalyaM?tab=repositories
+- 👨‍💻 All of my projects are available at [https://github.com/SoumalyaM?tab=repositories]
 
 
 - 📫 How to reach me **soumalyam10@gmail.com**
