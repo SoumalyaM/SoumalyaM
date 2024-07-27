@@ -37,9 +37,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/gubreleysanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/sanskar-gubreley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumalyamukhopadhyayfrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumalyamukhopadhyayfrontend" height="30" width="40" /></a>
 
 <a href="https://instagram.com/sanskar_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
 
